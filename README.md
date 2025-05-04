@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Zidane Lima
 
-**`Desenvolvedor Front-end`**
+**`Analista de Dados`**
 
-Me chamo Zidane Bezerra Lima, tenho 24 anos e sou natural do Ceará. Concluí o curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na Uninassal, e atualmente estou fazer pós-graduação em Front-end.
+Me chamo Zidane Bezerra Lima, tenho 25 anos e sou natural do Ceará. Concluí o curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na Uninassal, e atualmente estou fazer pós-graduação em Análise de Dados.
 
 <p align="left">
     <a href="https://github.com/ZidaneLima?tab=repositories&sort=stargazers">
